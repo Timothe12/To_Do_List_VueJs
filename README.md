@@ -1,4 +1,1 @@
-# coursvuejs
-
-Cours 01 - Découverte de VueJS
-Création d'un formulaire de présentation d'un utilisateur
+To do liste réalisé pour l'examen de fin d'année dans le cadre du cours d'approche développement frontend.
