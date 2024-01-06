@@ -1,0 +1,196 @@
+body {
+    background: #9ca5d3;
+}
+
+/* Début App.vue */
+
+#leftBorder {
+    padding-left: 20px;
+    border-left-style: solid;
+    border-color: #676e8a;
+    border-width: 2px;
+}
+
+#button-addon2 {
+    background-color: #4d577d;
+    border-color: #c8ceeb;
+    border-radius: 0;
+}
+
+.nav-link {
+    color: #4A5697;
+    font-size: 140%;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items:center;
+}
+
+.title h1 {
+    font-family: AURORA PRO;
+    font-size: 950%;
+    color: #4A5697;
+}
+
+.title h1 a {
+    text-decoration: none;
+    color: #4A5697;
+}
+
+.title h1 a:hover {
+    color: #576a9b;
+}
+
+.headerCenter {
+    background-color: #4D577D;
+    width: 1400px;
+    height: 460px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgb(77, 87, 125);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.btn-light {
+    font-weight: bold;
+    color: #4A5697;
+}
+
+.card-body {
+    padding: 20px 40px 20px 40px;
+}
+
+.centered-div {
+    width: 1400px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.centered-div {
+    color: white;
+}
+
+.card {
+    background-color: #4D577D;
+}
+
+.ombre {
+    box-shadow: 0 0 10px rgb(77, 87, 125);
+}
+
+.cardBorder {
+    border-color: white;
+}
+
+.cardWhite {
+    background-color: white;
+    border-color: #4D577D;
+    border-radius: 6px;
+}
+
+.card-title h3 {
+    color: white;
+}
+
+.fa-solid {
+    color: white;
+}
+
+.fa-regular {
+    color: white;
+}
+
+.fa-trash-can {
+    color: white;
+}
+
+.rightDev {
+    color: white;
+    text-align: center;
+}
+
+.fichePerso h1 {
+    color: red;
+}
+
+/*Début fiche mon profil */
+
+.bodyProfil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/*Début Insciption & Connexion */
+
+.bodyInscription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inscription {
+    text-align: center;
+}
+
+.inscription:hover {
+    opacity: 0.5;
+}
+
+.container {
+    max-width: 400px;
+    padding: 20px;
+    margin-bottom: 60px;
+    background-color: #4A5697;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    font-family: AURORA PRO;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="tel"],
+.form-group input[type="date"],
+.form-group input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.form-group button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #9ca5d3;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #7f8fb4;
+}
