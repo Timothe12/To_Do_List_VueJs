@@ -1,5 +1,10 @@
 # To do liste réalisé en VueJs pour l'examen de fin d'année dans le cadre du cours d'approche développement frontend.
 
+## Comment set up le projet ?
+  - Ouvrir le terminal
+  - Exécuter la commande: npm install
+  - Exécuter la commande: npm run dev
+
 ## Page de connexion
 ![Connexion](https://github.com/Timothe12/To_Do_List_VueJs/assets/128182775/91c05d8b-ad9b-4ef8-96ff-d7c3ba152a71)
 
