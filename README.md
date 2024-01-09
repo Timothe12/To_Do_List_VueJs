@@ -9,7 +9,8 @@
 ## Page d'accueil
 ![homepage](https://github.com/Timothe12/To_Do_List_VueJs/assets/128182775/00fc1c48-3694-4be5-b679-e345f5cbabcb)
 
-## Pas de profil
-![profil](https://github.com/Timothe12/To_Do_List_VueJs/assets/128182775/d6e14d53-4ff9-4e71-ab5e-a95661ad6a91)
+## Page de profil
+![profil](https://github.com/Timothe12/To_Do_List_VueJs/assets/128182775/4123af23-1113-4276-9d0e-4e6cc10f13d1)
+
 
 
